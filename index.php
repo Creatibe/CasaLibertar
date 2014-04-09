@@ -39,7 +39,7 @@
 					</li>
 					<li class="sliderItem">
 						<div class="sliderItemTxt">
-							<span class="txt1">Lorem ipsum dolor sit amet</span>
+							<span class="txt1">Lorem ipsum dolor sit amet...</span>
 							<span class="txt2">consectetur adipiscing elit. Mauris pretium augue facilisis lectus</span>
 						</div>
 						<div class="sliderItemImg"><img src="#"></div>
