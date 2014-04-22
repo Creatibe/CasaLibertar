@@ -20,7 +20,7 @@
 			</figure>
 				<ul>
 					<li><a href="index.php">INÍCIO</a></li>
-					<li><a href="servicos.php">SERVIÇOS</a></li>
+					<li><a href="servicos.php">SERVIÇOS FAZEMOS</a></li>
 					<li><a href="filosofia.php">FILOSOFIA</a></li>
 					<li><a href="equipe.php">EQUIPE</a></li>
 					<li><a href="estrutura.php">ESTRUTURA</a></li>
