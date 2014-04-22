@@ -26,6 +26,7 @@
 					<li><a href="estrutura.php">ESTRUTURA</a></li>
 					<li><a href="blog.php">BLOG</a></li>
 					<li><a href="contato.php">CONTATO</a></li>
+					<li><a href="contato.php">BLOG</a></li>
 				</ul>
 			</nav>
 		<aside id="slider">
